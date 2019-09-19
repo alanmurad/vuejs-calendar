@@ -22,7 +22,7 @@
     export default {
         data() {
             return {
-                month: 6,
+                month: 9,
                 year: 2019
             }; 
         },
