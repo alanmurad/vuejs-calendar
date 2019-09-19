@@ -4,9 +4,8 @@
             <div>
                 <h1>Vue.js Calendar</h1>
             </div>
-                <current-month></current-month>
             <div>
-                
+                <current-month></current-month>
             </div>
         </div>
         <div id="day-bar">
