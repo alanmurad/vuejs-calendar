@@ -6,5 +6,10 @@ export default new Vuex.Store({
     state: {
       currentYear: 2019,
       currentMonth: 9
+    },
+    mutations: {
+        setCurrentMonth(state, payload) {
+            state.currentMonth = payload;
+        }
     }
 });
